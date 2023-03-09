@@ -17,7 +17,7 @@ int main() {
   tot=mark1 +mark2;
   avg=(float) tot/2;
 
-  printf("Average is : %.2f,avg");
+  printf("Average is : %.2f,avg")
   return 0;
 }
 

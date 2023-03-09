@@ -33,6 +33,6 @@ int main() {
   {
     amount = 30 * 50+(distance - 30)*40;
   }
-  printf("Amount is : %.2f,amount");
+  printf("Amount is : %.2f,amount")
   return 0;
 }
